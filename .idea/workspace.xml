@@ -2,6 +2,579 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30b8ab93-d772-4d10-9a71-8f78084c146d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/boom/images/boom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/images/hawk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/images/hoek.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/sort-arrow-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/sort-arrow-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/.dir-locals.el" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/extend/.jscs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/.jshintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/xtend/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/isstream/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tunnel-agent/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/string_decoder/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/extend/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/commander/node_modules/graceful-readlink/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-function/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/node_modules/is-property/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/xtend/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/boom/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/cryptiles/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/sntp/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/asn1/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/ctype/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/isstream/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/json-stringify-safe/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/stringstream/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/extend/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/commander/node_modules/graceful-readlink/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-function/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/jsonpointer/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/boom/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/cryptiles/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/sntp/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/isstream/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/stringstream/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/nyc_output/5074.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/extend/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/json-stringify-safe/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/ctype/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/boom/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/mime-types/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/mime-types/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/mime-types/node_modules/mime-db/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/commander/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/xtend/LICENCE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/isstream/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/stringstream/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/aws-sign2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/string_decoder/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/extend/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/forever-agent/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/commander/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/commander/node_modules/graceful-readlink/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/node_modules/is-property/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/boom/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/cryptiles/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/sntp/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/asn1/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/ctype/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/json-stringify-safe/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/mime-types/node_modules/mime-db/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/oauth-sign/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tunnel-agent/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/combined-stream/License" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/License" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/License" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/xtend/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/cryptiles/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/sntp/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/json-stringify-safe/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/examples/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/aws-sign2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/core-util-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/isarray/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/string_decoder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/caseless/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/extend/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/forever-agent/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/commander/node_modules/graceful-readlink/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-function/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/node_modules/is-property/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/jsonpointer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/xtend/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/boom/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/cryptiles/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/sntp/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/asn1/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/assert-plus/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/isstream/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/json-stringify-safe/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/mime-types/node_modules/mime-db/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/benchmark/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/oauth-sign/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/stringstream/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tunnel-agent/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/ctype/README.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/ctype/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/combined-stream/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/commander/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/lib/_stream_writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/additionalItems.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/additionalProperties.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/allOf.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/any.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/anyOf.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/test/api_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/assert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/assert-plus/assert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/lib/async.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/lib/async.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/lib/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/lib/auth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/test/basic-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/benchmark/bench.gnu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/benchmark/bench.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/benchmark/benchmark-native.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/benchmark/benchmark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/bignum.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/bind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/bl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/browser/bluebird.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/bluebird.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/browser/bluebird.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/lib/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/test/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/test/ietf_data/dates/bsd-examples.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/isarray/build/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/cache.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/cacheEntry.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/call_get.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/cancel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/captured_trace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/catch_filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/cli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/cli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/supports-color/cli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/lib/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/test/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/combined-stream/lib/combined_stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/test/compare_v1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/isarray/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/extend/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/content.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/context.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/lib/cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/cookie.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/test/cookie_jar_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/test/cookie_sorting_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/test/cookie_to_json_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/test/cookie_to_string_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/lib/cookies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/fixtures/cosmic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/creator.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/lib/crypto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/test/crypto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/ctype/ctf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/ctype/man/man3ctype/ctio.3ctype" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/ctype/ctio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/ctype/ctype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/test/date_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app_api/models/db.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/mime-types/node_modules/mime-db/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/debuggability.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/default.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/definitions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/lib/delayed_stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/dependencies.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/direct_resolve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/disabled.appveyor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/test/domain_and_path_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/duplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/each.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/entry.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/enum.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/errors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/errors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/es5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/lib/escape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/test/escaper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-function/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/stringstream/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/test/ietf_data/dates/examples.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/finally.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/core-util-is/float.patch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/lib/form_data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/format.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/formats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/generate-pubsuffix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/generators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/lib/getProxyFromURI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/.bin/har-validator.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/.bin/har-validator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/bin/har-validator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/lib/har.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/har.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/.bin/has-ansi.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/.bin/has-ansi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/lib/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/http_signing.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/test/ietf_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/ignore.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/xtend/immutable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/lib/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/lib/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app_api/routes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/aws-sign2/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/isarray/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/string_decoder/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/caseless/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/extend/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/forever-agent/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/mime-types/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/escape-string-regexp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/get-stdin/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/supports-color/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/commander/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/commander/node_modules/graceful-readlink/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-function/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/boom/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/boom/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/cryptiles/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/cryptiles/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/cryptiles/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/sntp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/sntp/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/sntp/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/mime-types/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/mime-types/node_modules/mime-db/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/oauth-sign/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tunnel-agent/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/node_modules/is-property/is-property.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/isstream/isstream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/items.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/test/jar_serialization_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/join.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/ctype/tools/jsl.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/jsonpointer/jsonpointer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/ctype/tools/jsstyle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/escape-string-regexp/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/supports-color/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/test/lifetime_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app_api/controllers/locations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app_api/models/locations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app_api/routes/locations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/log.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/maxItems.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/maxLength.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/maxProperties.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/maximum.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/lib/memstore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/test/message.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/method.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/minItems.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/minLength.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/minProperties.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/minimum.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/misc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/json-stringify-safe/test/mocha.opts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/lib/multipart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/multipleOf.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/xtend/mutable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/nodeify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/not.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/nullAndFormat.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/lib/oauth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/sntp/examples/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/oneOf.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/aws-sign2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/core-util-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/isarray/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/string_decoder/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/caseless/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/combined-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/extend/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/forever-agent/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/escape-string-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/get-stdin/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/supports-color/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/commander/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/commander/node_modules/graceful-readlink/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-function/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/node_modules/is-property/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/jsonpointer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/xtend/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/boom/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/cryptiles/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/sntp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/asn1/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/ctype/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/isstream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/json-stringify-safe/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/oauth-sign/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/stringstream/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tunnel-agent/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/page.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/pageTimings.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/lib/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/test/ietf_data/parser.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/test/parsing_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/passthrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/lib/pathMatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/pattern.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/patternProperties.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/lib/permuteDomain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/postData.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/promise_array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/promise_resolver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/promisify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/properties.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/public-suffix.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/lib/pubsuffix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/lib/querystring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/race.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/readable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/reader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/asn1/tst/ber/reader.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/test/readme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/escape-string-regexp/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/get-stdin/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/supports-color/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/record.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/lib/redirect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/reduce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/ref.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/refRemote.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/test/regression_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/release.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/request.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/required.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/response.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app_api/controllers/reviews.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/test/sauce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/schedule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/lib/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/test/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/settle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/lib/signer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/some.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/sorter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/coverage/lcov-report/sorter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/tough-cookie/lib/store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/json-stringify-safe/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/test/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/json-stringify-safe/test/stringify_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/stringstream/stringstream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/.bin/strip-ansi.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/.bin/strip-ansi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/.bin/supports-color.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/.bin/supports-color" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/form-data/node_modules/async/support/sync-package-managers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/synchronous_inspection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/test/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/inherits/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/caseless/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-function/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/jsonpointer/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/xtend/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/isstream/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/oauth-sign/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/thenables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/node_modules/sntp/examples/time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/timers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/lib/schemas/timings.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/lib/tunnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/type.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/types.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/uniqueItems.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/test/uri.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/example/usage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/using.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/core-util-is/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/core-util-is/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/har-validator/node_modules/bluebird/js/main/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/hawk/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/qs/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/.bin/uuid.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/uuid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/.bin/uuid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/node-uuid/bin/uuid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/lib/verify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/bl/node_modules/readable-stream/writable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/asn1/lib/ber/writer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/http-signature/node_modules/asn1/tst/ber/writer.test.js" />
+      <change type="DELETED" beforePath="C:\Users\Slevin\Google Drive\Development\loc8r\app_server\models\db.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Slevin\Google Drive\Development\loc8r\app_server\models\locations.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Slevin\Google Drive\Development\loc8r\public\bootstrap\css\bootstrap-theme.css" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Slevin\Google Drive\Development\loc8r\public\bootstrap\css\bootstrap-theme.css.map" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Slevin\Google Drive\Development\loc8r\public\bootstrap\css\bootstrap-theme.min.css" afterPath="" />
@@ -11,7 +584,13 @@
       <change type="DELETED" beforePath="C:\Users\Slevin\Google Drive\Development\loc8r\public\bootstrap\js\npm.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Slevin\Google Drive\Development\loc8r\public\javascripts\jquery-1.11.3.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Slevin\Google Drive\Development\loc8r\public\javascripts\jquery-1.11.3.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app_server/models/db.js" afterPath="$PROJECT_DIR$/app_server/models/db.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app_server/routes/index.js" afterPath="$PROJECT_DIR$/app_server/routes/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app_server/views/locations-info.jade" afterPath="$PROJECT_DIR$/app_server/views/locations-info.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app_server/views/locations-list.jade" afterPath="$PROJECT_DIR$/app_server/views/locations-list.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app_server/controllers/locations.js" afterPath="$PROJECT_DIR$/app_server/controllers/locations.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="loc8r.iws" />
@@ -33,39 +612,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="locations.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app_server/models/locations.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app_server/models/db.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13535684">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="locations.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="locations.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app_server/controllers/locations.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5326087">
+              <caret line="101" column="21" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#51#91#0" expanded="false" />
+                <element signature="e#259#1728#0" expanded="false" />
+                <element signature="e#1773#2025#0" expanded="false" />
+                <element signature="e#2074#2768#0" expanded="false" />
+                <element signature="e#4150#4375#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app_server/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="locations.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app_api/controllers/locations.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+              <folding>
+                <element signature="e#209#593#0" expanded="false" />
+                <element signature="e#687#1761#0" expanded="false" />
+                <element signature="e#1823#2193#0" expanded="false" />
+                <element signature="e#3190#4023#0" expanded="false" />
+                <element signature="e#4118#5624#0" expanded="false" />
+                <element signature="e#5722#6320#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,6 +672,21 @@
       <list>
         <option value="$PROJECT_DIR$/app_server/models/locations.js" />
         <option value="$PROJECT_DIR$/app_server/models/db.js" />
+        <option value="$PROJECT_DIR$/app_api/routes/inde.js" />
+        <option value="$PROJECT_DIR$/app_api/routes/locations.js" />
+        <option value="$PROJECT_DIR$/app_api/routes/index.js" />
+        <option value="$PROJECT_DIR$/app_api/controllers/reviews.js" />
+        <option value="$PROJECT_DIR$/app_api/models/locations.js" />
+        <option value="$PROJECT_DIR$/app_api/models/db.js" />
+        <option value="$PROJECT_DIR$/app_server/routes/index.js" />
+        <option value="events.js" />
+        <option value="$PROJECT_DIR$/../loc8r-chap7/getting-MEAN/app_server/controllers/locations.js" />
+        <option value="module.js" />
+        <option value="$PROJECT_DIR$/app_server/views/locations-list.jade" />
+        <option value="$PROJECT_DIR$/app_server/views/locations-info.jade" />
+        <option value="$PROJECT_DIR$/app_api/controllers/locations.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/app_server/controllers/locations.js" />
       </list>
     </option>
   </component>
@@ -114,7 +726,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -143,7 +754,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app_server" />
+              <option name="myItemId" value="bin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -161,7 +772,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loc8r" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loc8r" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loc8r" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loc8r" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -183,8 +834,59 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loc8r" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loc8r" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loc8r" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loc8r" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loc8r" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loc8r" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -192,11 +894,72 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Slevin\Google Drive\Development\loc8r\app_api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.www">
+    <configuration default="false" name="www" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="www" working-dir="$PROJECT_DIR$/bin">
+      <method />
+    </configuration>
+    <configuration default="false" name="db.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="db.js" working-dir="$PROJECT_DIR$/app_api/models">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.www" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.db.js" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.www" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.db.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -212,26 +975,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="-13" width="2586" height="1466" extended-state="6" />
+    <frame x="-13" y="-13" width="2586" height="1466" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293745" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858273" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26444972" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -246,33 +1009,323 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app_server/controllers/locations.js">
+    <entry file="file://$PROJECT_DIR$/app_api/models/db.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_api/models/locations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_api/controllers/locations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="204" column="2" selection-start-line="204" selection-start-column="2" selection-end-line="204" selection-end-column="2" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#209#593#0" expanded="false" />
+            <element signature="e#687#1761#0" expanded="false" />
+            <element signature="e#1823#2193#0" expanded="false" />
+            <element signature="e#3190#4023#0" expanded="false" />
+            <element signature="e#4118#5624#0" expanded="false" />
+            <element signature="e#5722#6320#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app_server/models/locations.js">
+    <entry file="file://$PROJECT_DIR$/app_api/controllers/reviews.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app_server/models/db.js">
+    <entry file="file://$PROJECT_DIR$/app_api/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13535684">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_api/models/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_api/models/locations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_api/controllers/locations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="204" column="2" selection-start-line="204" selection-start-column="2" selection-end-line="204" selection-end-column="2" />
+          <folding>
+            <element signature="e#209#593#0" expanded="false" />
+            <element signature="e#687#1761#0" expanded="false" />
+            <element signature="e#1823#2193#0" expanded="false" />
+            <element signature="e#3190#4023#0" expanded="false" />
+            <element signature="e#4118#5624#0" expanded="false" />
+            <element signature="e#5722#6320#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_api/controllers/reviews.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_api/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_api/models/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/controllers/others.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/request/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36567163">
+          <caret line="197" column="4" selection-start-line="197" selection-start-column="4" selection-end-line="197" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_api/controllers/reviews.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.92542374">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18644068">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_api/models/locations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7084746">
+          <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_api/models/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../loc8r-chap7/getting-MEAN/app_server/controllers/locations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.002259887">
+          <caret line="98" column="4" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_api/routes/locations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9830508">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/views/_include/sharedHTMLfunctions.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/views/error.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/views/generic-text.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/views/locations-info.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5883871">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48474577">
+          <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/views/locations-list.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67427886">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_api/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41016948">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_api/controllers/locations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <element signature="e#209#593#0" expanded="false" />
+            <element signature="e#687#1761#0" expanded="false" />
+            <element signature="e#1823#2193#0" expanded="false" />
+            <element signature="e#3190#4023#0" expanded="false" />
+            <element signature="e#4118#5624#0" expanded="false" />
+            <element signature="e#5722#6320#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/controllers/locations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5326087">
+          <caret line="101" column="21" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
+          <folding>
+            <element signature="e#51#91#0" expanded="false" />
+            <element signature="e#259#1728#0" expanded="false" />
+            <element signature="e#1773#2025#0" expanded="false" />
+            <element signature="e#2074#2768#0" expanded="false" />
+            <element signature="e#4150#4375#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
