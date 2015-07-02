@@ -102,21 +102,22 @@ module.exports.locationInfo = function (req, res) {
         method : "GET",
         json : {}
     };
-    console.log("test: got zero");
     request(
         requestOptions,
         function(err, response, body) {
             var data = body;
-            data.coords = {
-                lng : body.coords[0],
-                lat : body.coords[1]
-            };
-            console.log("Test: got one");
-            renderDetailPage(req, res, data);
-            console.log("Test: got three");
+            if (response.statusCode === 200) { /* author Jek: added this to validate since it runs twice */
+                data.coords = {
+                    lng : body.coords[0],
+                    lat : body.coords[1]
+                };
+                console.log('locationInfo passed');
+                renderDetailPage(req, res, data);
+            } else {
+                console.log('locationInfo failed');
+            }
         }
     );
-    console.log("Test: got four ");
 };
 
 /* GET 'Location info' page */
@@ -129,7 +130,6 @@ var renderDetailPage = function (req, res, locDetail) {
             callToAction: 'If you\'ve been and you like it - or if you don\'t - please leave a review to help other people just like you.'
         },
         location: locDetail
-
     });
     console.log("Test: got two" + locDetail.name + " " + locDetail);
 };
