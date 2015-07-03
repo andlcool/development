@@ -38,7 +38,7 @@ module.exports.locationsListByDistance = function(req, res) {
         num: 10
     };
     if (!lng && lng!=0|| !lat&lat!=0 || !maxDistance) {
-        console.log('locationsListByDistance missing params');
+        //console.log('locationsListByDistance missing params');
         sendJSONresponse(res, 404, {
             "message": "lng, lat and maxDistance query parameters are all required"
         });
@@ -46,10 +46,10 @@ module.exports.locationsListByDistance = function(req, res) {
     }
     Loc.geoNear(point, geoOptions, function(err, results, stats) {
         var locations;
-        console.log('Geo Results', results);
-        console.log('Geo stats', stats);
+        //console.log('Geo Results', results);
+        //console.log('Geo stats', stats);
         if (err) {
-            console.log('geoNear error:', err);
+            //console.log('geoNear error:', err);
             sendJSONresponse(res, 404, err);
         } else {
             locations = buildLocationList(req, res, results, stats);

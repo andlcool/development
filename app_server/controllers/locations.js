@@ -63,6 +63,7 @@ var _formatDistance = function (distance) {
 };
 
 module.exports.homelist = function (req, res) {
+    console.log("Homepage loadedddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd");
     var requestOptions, path;
     path = '/api/locations';
     requestOptions = {
@@ -93,8 +94,7 @@ module.exports.homelist = function (req, res) {
 };
 
 
-
-module.exports.locationInfo = function (req, res) {
+var getLocationInfo = function (req, res, callback) {
     var requestOptions, path;
     path = "/api/locations/" + req.params.locationid;
     requestOptions = {
@@ -106,15 +106,14 @@ module.exports.locationInfo = function (req, res) {
         requestOptions,
         function(err, response, body) {
             var data = body;
-            if (response.statusCode === 200) { /* author Jek: added this to validate since it runs twice */
+            if (response.statusCode === 200) {
                 data.coords = {
                     lng : body.coords[0],
                     lat : body.coords[1]
                 };
-                console.log('locationInfo passed');
-                renderDetailPage(req, res, data);
+                callback(req, res, data);
             } else {
-                console.log('locationInfo failed');
+                _showError(req, res, response.statusCode);
             }
         }
     );
@@ -122,6 +121,7 @@ module.exports.locationInfo = function (req, res) {
 
 /* GET 'Location info' page */
 var renderDetailPage = function (req, res, locDetail) {
+    console.log("Render details started");
     res.render('locations-info', {
         title: locDetail.name,
         pageHeader: {title: locDetail.name},
@@ -131,18 +131,85 @@ var renderDetailPage = function (req, res, locDetail) {
         },
         location: locDetail
     });
-    console.log("Test: got two" + locDetail.name + " " + locDetail);
+};
+
+/* GET 'Location info' page */
+module.exports.locationInfo = function(req, res){
+
+    getLocationInfo(req, res, function(req, res, responseData) {
+
+        renderDetailPage(req, res, responseData);
+    });
+};
+
+
+var renderReviewForm = function (req, res, locDetail) {
+    res.render('location-review-form', {
+        title: 'Review ' + locDetail.name + ' on Loc8r',
+        pageHeader: { title: 'Review ' + locDetail.name },
+        error: req.query.err,
+        url: req.originalUrl
+    });
+
 };
 
 /* GET 'Add review' page */
-module.exports.addReview = function(req, res) {
-    res.render('location-review-form', {
-        title: 'Review Starcups on Loc8r',
-        pageHeader: {
-            title: 'Review Starcups'
-        },
-        user: {
-            displayName: "Slevin"
-        }
+module.exports.addReview = function(req, res){
+    console.log("Reacheddddddddddddddddddddddddddddddddddddddddddddddddddddfffffffffffffffffffffffffffffffffffffffffddddddddd");
+    getLocationInfo(req, res, function(req, res, responseData) {
+        renderReviewForm(req, res, responseData);
+    });
+};
+
+
+
+/* POST 'Add review' page */
+module.exports.doAddReview = function(req, res){
+    var requestOptions, path, locationid, postdata;
+    locationid = req.params.locationid;
+    path = "/api/locations/" + locationid + '/reviews';
+    postdata = {
+        author: req.body.name,
+        rating: parseInt(req.body.rating, 10),
+        reviewText: req.body.review
+    };
+    requestOptions = {
+        url : apiOptions.server + path,
+        method : "POST",
+        json : postdata
+    };
+    if (!postdata.author || !postdata.rating || !postdata.reviewText) {
+        res.redirect('/location/' + locationid + '/review/new?err=val');
+    } else {
+        request(
+            requestOptions,
+            function(err, response, body) {
+                if (response.statusCode === 201) {
+                    res.redirect('/location/' + locationid);
+                } else if (response.statusCode === 400 && body.name && body.name === "ValidationError" ) {
+                    res.redirect('/location/' + locationid + '/reviews/new?err=val');
+                } else {
+                    console.log(body);
+                    _showError(req, res, response.statusCode);
+                }
+            }
+        );
+    }
+};
+
+
+var _showError = function (req, res, status) {
+    var title, content;
+    if (status === 404) {
+        title = "404, page not found";
+        content = "Oh dear. Looks like we can't find this page. Sorry.";
+    } else {
+        title = status + ", something's gone wrong";
+        content = "Something, somewhere, has gone just a little bit wrong.";
+    }
+    res.status(status);
+    res.render('generic-text', {
+        title : title,
+        content : content
     });
 };
