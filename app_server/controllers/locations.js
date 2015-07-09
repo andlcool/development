@@ -64,33 +64,7 @@ var _formatDistance = function (distance) {
 
 module.exports.homelist = function (req, res) {
     console.log("Homepage loaded");
-    var requestOptions, path;
-    path = '/api/locations';
-    requestOptions = {
-        url : apiOptions.server + path,
-        method : "GET",
-        json : {},
-        qs : {
-            lng : -0.98700099,
-            lat : 53.3211,
-            maxDistance : 300
-        }
-    };
-    request(
-        requestOptions,
-        function(err, response, body) {
-            var i, data;
-            data = body;
-            if (response.statusCode === 200 && data.length) {
-                for (i=0; i<data.length; i++) {
-                    data[i].distance = _formatDistance(data[i].distance);
-                }
-            }
-            renderHomepage(req, res, data);
-        }
-    );
-
-
+    renderHomepage(req, res, data);
 };
 
 
