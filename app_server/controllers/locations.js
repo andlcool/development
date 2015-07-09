@@ -63,7 +63,7 @@ var _formatDistance = function (distance) {
 };
 
 module.exports.homelist = function (req, res) {
-    console.log("Homepage loadedddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd");
+    console.log("Homepage loaded");
     var requestOptions, path;
     path = '/api/locations';
     requestOptions = {
